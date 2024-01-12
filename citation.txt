@@ -1,0 +1,9 @@
+@article{REPO280,
+    author = "Du, Zhi-Hua and Wu, Yang-Han and Huang, Yu-An and Chen, Jie and Pan, Gui-Qing and Hu, Lun and You, Zhu-Hong and Li, Jian-Qiang",
+    journal = "Briefings in Bioinformatics",
+    number = "3",
+    pages = "bbac148",
+    title = "{GraphTGI: An Attention-Based Graph Embedding Model for Predicting TF-Target Gene Interactions}",
+    volume = "23",
+    year = "2022"
+}
